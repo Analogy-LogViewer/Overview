@@ -1,3 +1,4 @@
+![Analogy Log Viewer](Assets/logo128x128.jpg)
 # Overview
  Overview of projects and its repositories
  
