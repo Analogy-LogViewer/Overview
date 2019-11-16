@@ -20,6 +20,17 @@ Some features of this tool are:
 9.	Columns extension to add more columns specific to the data source implementation
 10.	Exporting to Excel/CSV files
 
+
+# Data Providers
+The following  custom data providers exists:
+- [Confluent's Apache Kafka .NET client Producer and consumer to Analogy](https://github.com/LiorBanai/Analogy.LogViewer.KafkaProvider)
+- NLog Parser with layout customization
+- Windows event logs
+- IIS log Parser and manuy more to follow
+
+Data providers settings are managed in their own user setting window. Planned and existing data providers are:
+![Data Providers settings screen](Assets/AnalogyDataProviders.jpg)
+
 # Dependencies & Build
 - Main Application UI is complied to .Net Framework 4.7.2 and to .Net Core 3.0.
 The projects targets .Net Framework 4.7.2/Core 3.0 . The supported version of Visual studio for this framework is Visual studio 2017 (or above).
@@ -31,15 +42,6 @@ Detailed Documentation will be added to the Wiki page.
 - DevExpress User Controls:
 in order to compile this code [DevExpress](https://www.devexpress.com/) assemblies are required (winforms package only).
 
-# Data Providers
-The following  custom data providers exists:
-- [Confluent's Apache Kafka .NET client Producer and consumer to Analogy](https://github.com/LiorBanai/Analogy.LogViewer.KafkaProvider)
-- NLog Parser with layout customization
-- Windows event logs
-- IIS log Parser and manuy more to follow
-
-Data providers settings are managed in their own user setting windows
-![Data Providers settings screen](Assets/AnalogyDataProviders.jpg)
 
 # Usage
 
