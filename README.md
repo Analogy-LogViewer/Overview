@@ -24,9 +24,10 @@ Some features of this tool are:
 # Data Providers
 The following  custom data providers exists:
 - [Confluent's Apache Kafka .NET client Producer and consumer to Analogy](https://github.com/LiorBanai/Analogy.LogViewer.KafkaProvider)
-- NLog Parser with layout customization
+- [NLog Parser with layout customization](https://github.com/Analogy-LogViewer/Analogy.LogViewer.NLog)
 - Windows event logs
-- IIS log Parser and many more to follow
+- [IIS log Parser](https://github.com/Analogy-LogViewer/Analogy.LogViewer.IISLogParser)
+ -and many more to follow
 
 Data providers settings are managed in their own user setting window. Planned and existing data providers are:
 ![Data Providers settings screen](Assets/AnalogyDataProviders.jpg)
