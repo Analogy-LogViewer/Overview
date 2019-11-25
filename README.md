@@ -27,7 +27,7 @@ The following  custom data providers exists:
 - [NLog Parser with layout customization](https://github.com/Analogy-LogViewer/Analogy.LogViewer.NLog)
 - Windows event logs
 - [IIS log Parser](https://github.com/Analogy-LogViewer/Analogy.LogViewer.IISLogParser)
- -and many more to follow
+- and many more to follow
 
 Data providers settings are managed in their own user setting window. Planned and existing data providers are:
 ![Data Providers settings screen](Assets/AnalogyDataProviders.jpg)
