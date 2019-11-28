@@ -1,5 +1,4 @@
-![Analogy Log Viewer](Assets/logo128x128.jpg)
-# Overview
+# Overview       <img src="./Assets/logo128x128.jpg" align="right" width="155px" height="155px">
  Overview of projects and its repositories
  
 # Analogy Log Viewer
