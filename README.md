@@ -23,7 +23,7 @@ Some features of this tool are:
 # Data Providers
 The following  custom data providers exists:
 - [Confluent's Apache Kafka .NET client Producer and consumer to Analogy](https://github.com/LiorBanai/Analogy.LogViewer.KafkaProvider)
-- [NLog Parser with layout customization](https://github.com/Analogy-LogViewer/Analogy.LogViewer.NLog)
+- [NLog Parser with layout customization](https://github.com/Analogy-LogViewer/Analogy.LogViewer.KafkaProvider)
 - Windows event logs
 - [IIS log Parser](https://github.com/Analogy-LogViewer/Analogy.LogViewer.IISLogParser)
 - [RSS Reader](https://github.com/Analogy-LogViewer/Analogy.LogViewer.RSSReader)
