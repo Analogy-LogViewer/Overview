@@ -19,10 +19,13 @@ Some features of this tool are:
 9.	Columns extension to add more columns specific to the data source implementation
 10.	Exporting to Excel/CSV files
 
+# Log Viewer Application
+The main Analogy Log Viewer app resides at the following repository: [Analogy Log Viewer](https://github.com/philips-software/logviewer).
+This version uses DevExpress UI Controls. A new version is in progress that uses Syncfusion Ui Control.
 
 # Data Providers
 The following  custom data providers exists:
-- [Confluent's Apache Kafka .NET client Producer and consumer to Analogy](https://github.com/LiorBanai/Analogy.LogViewer.KafkaProvider)
+- [Confluent's Apache Kafka .NET client Producer and consumer to Analogy](https://github.com/Analogy-LogViewer/Analogy.LogViewer.KafkaProvider)
 - [NLog Parser with layout customization](https://github.com/Analogy-LogViewer/Analogy.LogViewer.KafkaProvider)
 - Windows event logs
 - [IIS log Parser](https://github.com/Analogy-LogViewer/Analogy.LogViewer.IISLogParser)
