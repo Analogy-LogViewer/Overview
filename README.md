@@ -20,8 +20,10 @@ Some features of this tool are:
 10.	Exporting to Excel/CSV files
 
 # Log Viewer Application
-The main Analogy Log Viewer app resides at the following repository: [Analogy Log Viewer](https://github.com/philips-software/logviewer).
-This version uses DevExpress UI Controls. A new version is in progress that uses Syncfusion Ui Control.
+The main Analogy Log Viewer app resides at the following repositories:
+- [Analogy Log Viewer (DevExpress 19.1.8 version](https://github.com/Analogy-LogViewer/Analogy.LogViewer).
+- [Analogy Log Viewer (Syncfusion version)](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Syncfusion).
+
 
 # Data Providers
 The following  custom data providers exists:
