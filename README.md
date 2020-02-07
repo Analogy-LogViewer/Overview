@@ -28,7 +28,7 @@ The main Analogy Log Viewer app resides at the following repositories:
 
 # Data Providers
 The following  custom data providers exists:
-- [Confluent's Apache Kafka .NET Producer and consumer](https://github.com/Analogy-LogViewer/Analogy.LogViewer.KafkaProvider)
+- [Confluent's Apache Kafka .NET Producer and consumer](https://github.com/Analogy-LogViewer/Analogy.LogViewer.KafkaProvider) 
 - [NLog Parser with layout customization](https://github.com/Analogy-LogViewer/Analogy.LogViewer.KafkaProvider)
 - Windows event logs
 - [Catel log Parser](https://github.com/Analogy-LogViewer/Analogy.LogViewer.CatelProject)
@@ -59,6 +59,10 @@ To implement your own custom provider check the following repositories:
 - [Example Parser Project](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Example)
 - [Example Tamplate](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Template)
 
+The interface project located at:
+
+- [Analogy Interface Project](https://github.com/Analogy-LogViewer/Analogy.Interfaces)
+[![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.Interfaces?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=2&branchName=master)
 <a name="contact"></a>
 ## Contact
 
