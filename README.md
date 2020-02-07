@@ -37,7 +37,7 @@ The following  custom data providers exists:
 - Kama Research and Development
 - (private repo) Philips ICAP BU
 - (private repo) Philips CT BU
-- Windows event logs and more to follow
+- Windows event logs
 
 Data providers settings are managed in their own user setting window. Planned and existing data providers are:
 ![Data Providers settings screen](Assets/AnalogyDataProviders.jpg)
