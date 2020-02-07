@@ -28,13 +28,12 @@ The main Analogy Log Viewer app resides at the following repositories:
 
 # Data Providers
 The following  custom data providers exists:
-- [Confluent's Apache Kafka .NET Producer and consumer](https://github.com/Analogy-LogViewer/Analogy.LogViewer.KafkaProvider) 
-- [NLog Parser with layout customization](https://github.com/Analogy-LogViewer/Analogy.LogViewer.KafkaProvider)
-- Windows event logs
-- [Catel log Parser](https://github.com/Analogy-LogViewer/Analogy.LogViewer.CatelProject)
-- [IIS log Parser](https://github.com/Analogy-LogViewer/Analogy.LogViewer.IISLogParser)
-- [RSS Reader](https://github.com/Analogy-LogViewer/Analogy.LogViewer.RSSReader)
-- and many more to follow
+- [NLog Parser with layout customization](https://github.com/Analogy-LogViewer/Analogy.LogViewer.KafkaProvider) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.NLogProvider?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=3&branchName=master)
+- [Confluent's Apache Kafka .NET Producer and consumer](https://github.com/Analogy-LogViewer/Analogy.LogViewer.KafkaProvider) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.KafkaProvider?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=5&branchName=master)
+- [Catel log Parser](https://github.com/Analogy-LogViewer/Analogy.LogViewer.CatelProject) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.CatelProject?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=4&branchName=master)
+- [IIS log Parser](https://github.com/Analogy-LogViewer/Analogy.LogViewer.IISLogParser) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.IISLogsProvider?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=6&branchName=master)
+- [RSS Reader](https://github.com/Analogy-LogViewer/Analogy.LogViewer.RSSReader) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.RSSReader?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=7&branchName=master)
+- Windows event logs and more to follow
 
 Data providers settings are managed in their own user setting window. Planned and existing data providers are:
 ![Data Providers settings screen](Assets/AnalogyDataProviders.jpg)
