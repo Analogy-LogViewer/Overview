@@ -66,8 +66,8 @@ in order to compile this code [DevExpress](https://www.devexpress.com/) assembli
 The primary usage of this application is to implement your own data source of logs of your own business domain by implementing small Interface but there are built in data providers (like NLog parser) that can be used without and additional coding.
 
 To implement your own custom provider check the following repositories:
-- [Example Parser Project](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Example)
-- [Example Tamplate](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Template)
+- [Example Parser Project](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Example) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.Example?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=14&branchName=master)
+- [Example Template](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Template)
 
 The interface project located at:
 
