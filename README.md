@@ -82,7 +82,7 @@ The interface project located at:
 ### Owner
 - [Lior Banai](mailto:liorbanai@gmail.com)
 
-## Organizations Users
+## Used by the following Organizations:
 
 - [Kama Research and Development](https://www.linkedin.com/company/kama-research-ltd/about/)
 <img src="./Assets/Kama.jpg">
