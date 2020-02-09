@@ -58,8 +58,10 @@ After successfull build any custom data source assemblies should be placed at th
 Detailed Documentation will be added to the Wiki page.
 
 - DevExpress User Controls:
-in order to compile this code [DevExpress](https://www.devexpress.com/) assemblies are required (winforms package only).
+in order to compile the DevExpress version  [DevExpress](https://www.devexpress.com/) assemblies are required (winforms package only).
 
+- Syncfusion User Controls:
+[Syncfusion](https://www.syncfusion.com/) has open source license.
 
 # Usage
 
