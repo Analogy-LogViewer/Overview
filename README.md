@@ -82,3 +82,10 @@ The interface project located at:
 ### Owner
 - [Lior Banai](mailto:liorbanai@gmail.com)
 
+## Organizations Users
+
+- [Kama Research and Development](https://www.linkedin.com/company/kama-research-ltd/about/)
+<img src="./Assets/Kama.jpg">
+
+- [Philips Healthcare](https://www.philips.com/global)
+<img src="./Assets/PhilipsShield.jpg">
