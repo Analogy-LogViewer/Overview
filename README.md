@@ -84,5 +84,5 @@ The interface project located at:
 
 ## Used by the following Organizations:
 
-- [<img src="./Assets/Kama.jpg" align="right">](https://www.linkedin.com/company/kama-research-ltd/about/)
-- [<img src="./Assets/PhilipsShield.jpg"  align="right">](https://www.philips.com/global)
+<img src="./Assets/Kama.jpg">](https://www.linkedin.com/company/kama-research-ltd/about/)
+<img src="./Assets/PhilipsShield.jpg">](https://www.philips.com/global)
