@@ -75,7 +75,7 @@ To implement your own custom provider check the following repositories:
 The interface project located at:
 
 - [Analogy Interface Project](https://github.com/Analogy-LogViewer/Analogy.Interfaces)
-[![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.Interfaces?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=2&branchName=master)
+[![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.Interfaces?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=2&branchName=master) [![Nuget](https://img.shields.io/nuget/dt/Analogy.LogViewer.Interfaces)](https://www.nuget.org/packages/Analogy.LogViewer.Interfaces/) 
 <a name="contact"></a>
 ## Contact
 
@@ -85,7 +85,7 @@ The interface project located at:
 ## Used by the following Organizations:
 
 - [Kama Research and Development](https://www.linkedin.com/company/kama-research-ltd/about/)
-<img src="./Assets/Kama.jpg">
+<img src="./Assets/Kama.jpg" align="right">
 
 - [Philips Healthcare](https://www.philips.com/global)
-<img src="./Assets/PhilipsShield.jpg">
+<img src="./Assets/PhilipsShield.jpg"  align="right">
