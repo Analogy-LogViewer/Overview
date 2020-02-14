@@ -21,7 +21,7 @@ Some features of this tool are:
 
 # Log Viewer Application
 The main Analogy Log Viewer app resides at the following repositories:
-- [Analogy Log Viewer (DevExpress 19.1.8 version)](https://github.com/Analogy-LogViewer/Analogy.LogViewer).
+- [Analogy Log Viewer (DevExpress 19.1.9 version)](https://github.com/Analogy-LogViewer/Analogy.LogViewer).
 - [Analogy Log Viewer (Syncfusion version)](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Syncfusion).
 - [Analogy Log Viewer (Winforms version - not ready for use)](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Winforms).
 
