@@ -21,7 +21,7 @@ Some features of this tool are:
 
 # Log Viewer Application
 The main Analogy Log Viewer app resides at the following repositories:
-- [Analogy Log Viewer (DevExpress 19.1.9 version)](https://github.com/Analogy-LogViewer/Analogy.LogViewer).
+- [Analogy Log Viewer (DevExpress 19.1.9 version)](https://github.com/Analogy-LogViewer/Analogy.LogViewer). [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=1&branchName=master)
 - [Analogy Log Viewer (Syncfusion version)](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Syncfusion).
 - [Analogy Log Viewer (Winforms version - not ready for use)](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Winforms). [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.Winforms?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=10&branchName=master)
 
