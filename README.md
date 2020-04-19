@@ -42,6 +42,7 @@ The following  custom data providers exists:
 
 ### Special Purpose Data providers:
 - [Git History](https://github.com/Analogy-LogViewer/Analogy.LogViewer.GitHistory)[![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.GitHistory?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=24&branchName=master) [![Nuget](https://img.shields.io/nuget/v/Analogy.LogViewer.GitHistory)](https://www.nuget.org/packages/Analogy.LogViewer.GitHistory/)
+- [WCF Sender/Receiver](https://github.com/Analogy-LogViewer/Analogy.LogViewer.WCF)[![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.WCF?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=22&branchName=master) [![Nuget](https://img.shields.io/nuget/v/Analogy.LogViewer.WCF)](https://www.nuget.org/packages/Analogy.LogViewer.WCF/)
 
 ### Organizations/Companies Data providers:
 - [Kama Research and Development](https://github.com/Analogy-LogViewer/Analogy.LogViewer.KamaResearch) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.KamaResearch?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=11&branchName=master)
