@@ -21,8 +21,8 @@ Some features of this tool are:
 
 # Log Viewer Application
 The main Analogy Log Viewer app resides at the following repositories:
-- [Analogy Log Viewer (DevExpress 19.1.9 version)](https://github.com/Analogy-LogViewer/Analogy.LogViewer). [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=1&branchName=master)
-- [Analogy Log Viewer (Syncfusion version)](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Syncfusion).
+- [Analogy Log Viewer (DevExpress 19.1.10 version)](https://github.com/Analogy-LogViewer/Analogy.LogViewer). [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=1&branchName=master)
+- [Analogy Log Viewer (Syncfusion version - developement paused for now)](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Syncfusion).
 - [Analogy Log Viewer (Winforms version - not ready for use)](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Winforms). [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.Winforms?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=10&branchName=master)
 
 
@@ -32,6 +32,7 @@ The following  custom data providers exists:
 - [Plain Text Parser](https://github.com/Analogy-LogViewer/Analogy.LogViewer.PlainTextParser) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.PlainTextParser?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=17&branchName=master)  [![Nuget](https://img.shields.io/nuget/v/Analogy.LogViewer.PlainTextParser)](https://www.nuget.org/packages/Analogy.LogViewer.PlainTextParser/)
 - [NLog Parser](https://github.com/Analogy-LogViewer/Analogy.LogViewer.NLogProvider)[![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.NLog?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=20&branchName=master)  [![Nuget](https://img.shields.io/nuget/v/Analogy.LogViewer.NLogProvider)](https://www.nuget.org/packages/Analogy.LogViewer.NLogProvider/) 
 - [Serilog Parser](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Serilog) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.Serilog?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=15&branchName=master)  [![Nuget](https://img.shields.io/nuget/v/Analogy.LogViewer.Serilog)](https://www.nuget.org/packages/Analogy.LogViewer.Serilog/)
+- [Regular Expression Parser](https://github.com/Analogy-LogViewer/Analogy.LogViewer.RegexParser)  [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.RegexParser?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=30&branchName=master)  [![Nuget](https://img.shields.io/nuget/v/Analogy.LogViewer.RegexParser)](https://www.nuget.org/packages/Analogy.LogViewer.RegexParser/)
 - [Confluent's Apache Kafka .NET Producer and consumer](https://github.com/Analogy-LogViewer/Analogy.LogViewer.KafkaProvider) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.KafkaProvider?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=5&branchName=master)  [![Nuget](https://img.shields.io/nuget/v/Analogy.LogViewer.KafkaProvider)](https://www.nuget.org/packages/Analogy.LogViewer.KafkaProvider/)
 - [Catel log Parser](https://github.com/Analogy-LogViewer/Analogy.LogViewer.CatelProject) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.CatelProject?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=4&branchName=master)
 - [IIS log Parser](https://github.com/Analogy-LogViewer/Analogy.LogViewer.IISLogParser) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.IISLogsProvider?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=6&branchName=master)  [![Nuget](https://img.shields.io/nuget/v/Analogy.LogViewer.IISLogsProvider)](https://www.nuget.org/packages/Analogy.LogViewer.IISLogsProvider/)
@@ -42,6 +43,7 @@ The following  custom data providers exists:
 
 ### Special Purpose Data providers:
 - [Git History](https://github.com/Analogy-LogViewer/Analogy.LogViewer.GitHistory)[![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.GitHistory?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=24&branchName=master) [![Nuget](https://img.shields.io/nuget/v/Analogy.LogViewer.GitHistory)](https://www.nuget.org/packages/Analogy.LogViewer.GitHistory/)
+- [WCF Sender/Receiver](https://github.com/Analogy-LogViewer/Analogy.LogViewer.WCF)[![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.WCF?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=22&branchName=master) [![Nuget](https://img.shields.io/nuget/v/Analogy.LogViewer.WCF)](https://www.nuget.org/packages/Analogy.LogViewer.WCF/)
 
 ### Organizations/Companies Data providers:
 - [Kama Research and Development](https://github.com/Analogy-LogViewer/Analogy.LogViewer.KamaResearch) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.KamaResearch?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=11&branchName=master)
@@ -60,8 +62,7 @@ Data providers settings are managed in their own user setting window. Planned an
 
 - [Analogy.LogViewer.Example](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Example) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.Example?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=14&branchName=master) [![Nuget](https://img.shields.io/nuget/v/Analogy.LogViewer.Example)](https://www.nuget.org/packages/Analogy.LogViewer.Example/) [![Nuget](https://img.shields.io/nuget/dt/Analogy.LogViewer.Example)](https://www.nuget.org/packages/Analogy.LogViewer.Example/) - Example project how to create new custom data provider.
 # Dependencies & Build
-- Main Application UI is complied to .Net Framework 4.7.2 and to .Net Core 3.0.
-The projects targets .Net Framework 4.7.2/Core 3.0 . The supported version of Visual studio for this framework is Visual studio 2017 (or above).
+- Main Application UI is complied to .Net Framework 4.7.2 and to .Net Core 3.1. The supported version of Visual studio for this framework is Visual studio 2017 (or above).
 After successfull build any custom data source assemblies should be placed at the same folder as the executable (Analogy.exe) with the folowing pattern naming: Analogy.LogViewer.*.dll
 - Analogy Interfaces assembly is complied to .Net Standard 2.0.
 
@@ -79,7 +80,7 @@ The primary usage of this application is to implement your own data source of lo
 
 To implement your own custom provider check the following repositories:
 - [Example Parser Project](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Example) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.Example?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=14&branchName=master)
-- [Example Template](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Template)
+- [Example Template](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Template) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.Template?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=23&branchName=master)
 
 The interface project located at:
 
