@@ -2,6 +2,7 @@
  Overview of projects and their repositories
  
 # Analogy Log Viewer
+![Supported extensions](Assets/Analogy512x512.jpg)
 
 Analogy Log Viewer is multi purpose Log Viewer for Windows Operating systems (with built-in Parser for most commonly used log frameworks).
 
