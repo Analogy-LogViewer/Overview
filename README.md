@@ -26,9 +26,20 @@ The main Analogy Log Viewer app resides at the following repositories:
 - [Analogy Log Viewer (Syncfusion version - developement paused for now)](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Syncfusion).
 - [Analogy Log Viewer (Winforms version - not ready for use)](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Winforms). [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.Winforms?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=10&branchName=master)
 
+# Real Time Data Providers
+
+Analogy Log Viewer has a Real time gRPC Data provider:
+
+| Nuget   |      Version      |  Description |
+|----------|:-------------:|------|
+| [Analogy.LogViewer.gRPC](https://www.nuget.org/packages/Analogy.LogViewer.gRPC/) |   [![Nuget](https://img.shields.io/nuget/v/Analogy.LogViewer.gRPC)](https://www.nuget.org/packages/Analogy.LogViewer.gRPC/) | Primary Analogy Log Viewer grRPC providers |
+| [Analogy.LogServer](https://www.nuget.org/packages/Analogy.LogServer/) |   [![Nuget](https://img.shields.io/nuget/v/Analogy.LogServer)](https://www.nuget.org/packages/Analogy.LogServer/) | A windows Service for receiving logs |
+| [Analogy.LogServer.Clients](https://www.nuget.org/packages/Analogy.LogServer.Clients/) |   [![Nuget](https://img.shields.io/nuget/v/Analogy.LogServer.Clients)](https://www.nuget.org/packages/Analogy.LogServer.Clients) | gRPC client to pull back messages from Analogy Service |
+
+
 
 # Data Providers
-The following  custom data providers exists:
+The following custom data providers exists:
 ### Common Data providers:
 | Data Provider   |      CI Status      |  Nuget Version |
 |----------|:---------------:|------|
