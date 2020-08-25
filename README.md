@@ -62,20 +62,18 @@ The following  custom data providers exists:
 | [MIrada XD logs Parser](https://github.com/Analogy-LogViewer/Analogy.LogViewer.MiradaXD) | [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.MiradaXD?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=8&branchName=master)
 
 
-Data providers settings are managed in their own user setting window. Planned and existing data providers are:
-![Data Providers settings screen](Assets/AnalogyDataProviders.jpg)
-
 # Other Repositories
 
-- [Analogy.DataProviders.Extensions](https://github.com/Analogy-LogViewer/Analogy.DataProviders.Extensions)  [![Nuget](https://img.shields.io/nuget/v/Analogy.DataProviders.Extensions)](https://www.nuget.org/packages/Analogy.DataProviders.Extensions/)  [![Nuget](https://img.shields.io/nuget/dt/Analogy.DataProviders.Extensions)](https://www.nuget.org/packages/Analogy.DataProviders.Extensions/)  [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.DataProviders.Extensions?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=9&branchName=master) - Add additional functionality (e.g UI controls) for .net framework/.net Core versions.
 
-- [Analogy.LogViewer.Example](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Example) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.Example?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=14&branchName=master) [![Nuget](https://img.shields.io/nuget/v/Analogy.LogViewer.Example)](https://www.nuget.org/packages/Analogy.LogViewer.Example/) [![Nuget](https://img.shields.io/nuget/dt/Analogy.LogViewer.Example)](https://www.nuget.org/packages/Analogy.LogViewer.Example/) - Example project how to create new custom data provider.
+| Data Provider   |      CI Status      |  Nuget Version |
+|----------|:---------------:|------|
+| [Analogy.DataProviders.Extensions](https://github.com/Analogy-LogViewer/Analogy.DataProviders.Extensions) |  ![.NET Core Desktop](https://github.com/Analogy-LogViewer/Analogy.DataProviders.Extensions/workflows/.NET%20Core%20Desktop/badge.svg)  [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.DataProviders.Extensions?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=9&branchName=master) | [![Nuget](https://img.shields.io/nuget/v/Analogy.DataProviders.Extensions)](https://www.nuget.org/packages/Analogy.DataProviders.Extensions/)  
+| [Analogy.LogViewer.Example](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Example) | ![.NET Core Desktop](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Example/workflows/.NET%20Core%20Desktop/badge.svg) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.Example?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=14&branchName=master) | [![Nuget](https://img.shields.io/nuget/v/Analogy.LogViewer.Example)](https://www.nuget.org/packages/Analogy.LogViewer.Example/) 
+| [Analogy Interface Project](https://github.com/Analogy-LogViewer/Analogy.Interfaces) | ![.NET Core Desktop](https://github.com/Analogy-LogViewer/Analogy.Interfaces/workflows/.NET%20Core%20Desktop/badge.svg) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.Interfaces?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=2&branchName=master) | [![Nuget](https://img.shields.io/nuget/v/Analogy.LogViewer.Interfaces)](https://www.nuget.org/packages/Analogy.LogViewer.Interfaces/) 
 # Dependencies & Build
 - Main Application UI is complied to .Net Framework 4.7.2 and to .Net Core 3.1. The supported version of Visual studio for this framework is Visual studio 2017 (or above).
 After successfull build any custom data source assemblies should be placed at the same folder as the executable (Analogy.exe) with the folowing pattern naming: Analogy.LogViewer.*.dll
 - Analogy Interfaces assembly is complied to .Net Standard 2.0.
-
-Detailed Documentation will be added to the Wiki page.
 
 - DevExpress User Controls:
 in order to compile the DevExpress version  [DevExpress](https://www.devexpress.com/) assemblies are required (winforms package only).
@@ -83,18 +81,7 @@ in order to compile the DevExpress version  [DevExpress](https://www.devexpress.
 - Syncfusion User Controls:
 [Syncfusion](https://www.syncfusion.com/) has open source license.
 
-# Usage
 
-The primary usage of this application is to implement your own data source of logs of your own business domain by implementing small Interface but there are built in data providers (like NLog parser) that can be used without and additional coding.
-
-To implement your own custom provider check the following repositories:
-- [Example Parser Project](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Example) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.Example?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=14&branchName=master)
-- [Example Template](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Template) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.Template?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=23&branchName=master)
-
-The interface project located at:
-
-- [Analogy Interface Project](https://github.com/Analogy-LogViewer/Analogy.Interfaces)
-[![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.Interfaces?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=2&branchName=master) [![Nuget](https://img.shields.io/nuget/dt/Analogy.LogViewer.Interfaces)](https://www.nuget.org/packages/Analogy.LogViewer.Interfaces/) 
 <a name="contact"></a>
 ## Contact
 
