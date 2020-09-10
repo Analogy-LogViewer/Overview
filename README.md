@@ -33,6 +33,7 @@ Analogy Log Viewer has a Real time gRPC Data provider:
 | Data Provider   |      CI Status      |  Nuget Version |
 |----------|:---------------:|------|
 | [gRPC Real Time Data Provider](https://github.com/Analogy-LogViewer/Analogy.LogViewer.gRPC) |![.NET Core Desktop](https://github.com/Analogy-LogViewer/Analogy.LogViewer.gRPC/workflows/.NET%20Core%20Desktop/badge.svg) [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.LogViewer.gRPC?branchName=master)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=34&branchName=master) | [![Nuget](https://img.shields.io/nuget/v/Analogy.LogViewer.gRPC)](https://www.nuget.org/packages/Analogy.LogViewer.gRPC/)
+| [Analogy.AspNetCore.LogProvider](https://www.nuget.org/packages/Analogy.AspNetCore.LogProvider/) | ![.NET Core Desktop](https://github.com/Analogy-LogViewer/Analogy.AspNetCore.LogProvider/workflows/.NET%20Core%20Desktop/badge.svg)  [![Build Status](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_apis/build/status/Analogy-LogViewer.Analogy.AspNetCore.LogProvider?branchName=main)](https://dev.azure.com/Analogy-LogViewer/Analogy%20Log%20Viewer/_build/latest?definitionId=37&branchName=main)| [![Nuget](https://img.shields.io/nuget/v/Analogy.AspNetCore.LogProvider)](https://www.nuget.org/packages/Analogy.AspNetCore.LogProvider) AspNetCore Logger provider. See [Repo](https://github.com/Analogy-LogViewer/Analogy.AspNetCore.LogProvider) |
 
 ## gRPC Real Time Data Provider
 
